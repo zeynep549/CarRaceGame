@@ -1,0 +1,1 @@
+A Car race game in a circular area with the buttons a,w,d and up down right and left buttons (pgup,pgdn,end,home) and also there are bot players they move randomly and a time label is active showing current time when they hit circles they lose time and their chance to win is decresasing and they are automticaly sent to their previous location 
